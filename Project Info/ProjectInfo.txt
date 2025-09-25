@@ -1,0 +1,3 @@
+This is the project I had done it during my II nd year.
+I think that page replcement concept was thought so much theoretically.
+In order to improve the understanding of this concept, i used visualization using python.
