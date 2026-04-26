@@ -6,7 +6,7 @@ This simulator helps students understand how **virtual memory management** works
 
 ---
 
-## Features
+# Features
 - FIFO Page Replacement
 - LRU Page Replacement
 - Optimal Page Replacement
@@ -20,7 +20,7 @@ This simulator helps students understand how **virtual memory management** works
 
 ---
 
-## Project Structure
+# Project Structure
 ```bash
 os-page-replacement-visualizer/
 │
@@ -34,25 +34,25 @@ os-page-replacement-visualizer/
 ├── README.md
 └── screenshots/
     ├── comparison_graph.png
-    ├── fifo_demo.gif
+    ├── fifo_demo.png
     ├── fifo_page_faults.png
-    ├── lru_demo.gif
+    ├── lru_demo.png
     ├── lru_page_faults.png
-    ├── optimal_demo.gif
+    ├── optimal_demo.png
     ├── optimal_page_faults.png
     └── theme_selection_for_visualization.png
 ```
 
 ---
 
-## Algorithms Used
+# Algorithms Used
 1. First In First Out (FIFO)
 2. Least Recently Used (LRU)
 3. Optimal Page Replacement
 
 ---
 
-## How to Run
+# How to Run
 ```bash
 python main.py
 ```
@@ -65,13 +65,16 @@ python enhanced_animate.py
 ---
 
 # Demo Preview
+### Sample Input
+<centre><img width="625" height="576" alt="theme_selection_for_visualization" src="https://github.com/user-attachments/assets/8aa1c768-0d2a-41eb-a977-a29a66d9b1fe " /></centre>
+### Visualization
+<img width="870" height="726" alt="newdemo" src="https://github.com/user-attachments/assets/6ba94334-5a8f-4c3a-8b41-51b112072377" /> <br>
+### Comparison Graph
+<img width="738" height="570" alt="Comparison_graph" src="https://github.com/user-attachments/assets/43302ec4-4eae-43d6-aa61-9bbea32f9496" />
 
-```markdown
-![Demo GIF](screenshots/fifo_visualization.gif)
-```
 ---
 
-## Learning Outcome
+# Learning Outcome
 This project improves understanding of:
 - Paging
 - Page faults
@@ -82,14 +85,14 @@ This project improves understanding of:
 
 ---
 
-## Tech Stack
+# Tech Stack
 - Python
 - Matplotlib
 - Pygame
 
 ---
 
-## Future Enhancements
+# Future Enhancements
 - GUI using Tkinter / PyQt
 - Real memory block animation
 - Sound effects for page faults
@@ -98,7 +101,7 @@ This project improves understanding of:
 
 ---
 
-## Author
+# Author
 **Abarna Jeyabharathi**  
 
 # Support
