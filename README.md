@@ -93,6 +93,7 @@ This project improves understanding of:
 ---
 
 # Future Enhancements
+
 - GUI using Tkinter / PyQt
 - Real memory block animation
 - Sound effects for page faults
@@ -101,8 +102,10 @@ This project improves understanding of:
 
 ---
 
-# Author
-**Abarna Jeyabharathi**  
+# Developer
+**Abarna Jeyabharathi L**  
+B.Tech Information Technology Student
+Velammal College of Engineering and Technology 
 
 # Support
 If you like this project, give it a ⭐ on GitHub.
